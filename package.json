@@ -1,5 +1,5 @@
 {
-  "name": "react-twitter-conversion-tracker",
+  "name": "fb-react-twitter-conversion-tracker",
   "version": "1.0.0",
   "description": "React JS component for Twitter's conversion tracking.",
   "main": "src/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/evankyle/react-twitter-conversion-tracker.git"
+    "url": "git+https://github.com/muhammadsr/react-twitter-conversion-tracker"
   },
   "keywords": [
     "react",
